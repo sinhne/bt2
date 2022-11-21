@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391036797276",
+    "firebase_url": "https://cayxanh-ecf82-default-rtdb.firebaseio.com",
+    "project_id": "cayxanh-ecf82",
+    "storage_bucket": "cayxanh-ecf82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391036797276:android:3315bade76d93dc48a8199",
+        "android_client_info": {
+          "package_name": "com.example.fbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391036797276-6nov4t3evme7ocfq87jerq4v2ugtqrh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSpaZhsYk_6OspvkWZSUVR6dFunGS7XMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391036797276-6nov4t3evme7ocfq87jerq4v2ugtqrh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
